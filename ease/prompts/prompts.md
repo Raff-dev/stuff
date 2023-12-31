@@ -10,7 +10,7 @@ dla każdego punktu znajdz po 3-4 przydatne źródła linki z różnych stron
 {chapter_title}
 {chapter_points}
 
-output w postaci:
+output:
 {chapter_point}
 źródła:
     - {link}
@@ -33,11 +33,11 @@ W tym celu dla każdego źródła wyznacz 1-2 podzadanie.
 output:
 podzadania:
     {source}:
-        - {link}
+        - {task}
     {source}:
-        - {link}
+        - {task}
     {source}:
-        - {link}
+        - {task}
 ```
 
 
